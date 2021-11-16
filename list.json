@@ -1,0 +1,84 @@
+{
+    "item": [
+        {
+            "SlNo": "1",
+            "Name": "Milk",
+            "Quantity": "500",
+            "Unit": "ml",
+            "Department": "Dairy products",
+            "Notes": "Milma"
+        },
+        {
+            "SlNo": "2",
+            "Name": "Yogurt",
+            "Quantity": "200",
+            "Unit": "ml",
+            "Department": "Dairy products",
+            "Notes": "Milma"
+        },
+        {
+            "SlNo": "3",
+            "Name": "Egg",
+            "Quantity": "12",
+            "Unit": "Nos",
+            "Department": "Protein Foods",
+            "Notes": "Easy eggs"
+        },
+        {
+            "SlNo": "4",
+            "Name": "Rice",
+            "Quantity": "10",
+            "Unit": "kg",
+            "Department": "Rice",
+            "Notes": "Palakkadan Matta"
+        },
+        {
+            "SlNo": "5",
+            "Name": "Wheat flour",
+            "Quantity": "4",
+            "Unit": "kg",
+            "Department": "Flour",
+            "Notes": "Ashirvad"
+        },
+        {
+            "SlNo": "6",
+            "Name": "Banana",
+            "Quantity": "7",
+            "Unit": "kg",
+            "Department": "Fruits",
+            "Notes": "Fresh"
+        },
+        {
+            "SlNo": "7",
+            "Name": "Grapes",
+            "Quantity": "4",
+            "Unit": "kg",
+            "Department": "Fruits",
+            "Notes": "Fresh"
+        },
+        {
+            "SlNo": "8",
+            "Name": "Biscuts",
+            "Quantity": "3",
+            "Unit": "Packets",
+            "Department": "Snacks",
+            "Notes": "Tiger"
+        },
+        {
+            "SlNo": "9",
+            "Name": "Tomato",
+            "Quantity": "2",
+            "Unit": "kg",
+            "Department": "Vegetables",
+            "Notes": "Fresh"
+        },
+        {
+            "SlNo": "10",
+            "Name": "Tea powder",
+            "Quantity": "2",
+            "Unit": "kg",
+            "Department": " beverages",
+            "Notes": "Red Label"
+        }
+    ]
+}
